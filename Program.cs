@@ -10,7 +10,7 @@ namespace Projects
     {
         static void Main(string[] args)
         { 
-            //Folder where the file is stored, file name and the extention 
+            //Folder where the file is stored, file name and the extension 
             string filepath = @"C:\projects\employeeinfo.txt";
 
             //defining type string 
